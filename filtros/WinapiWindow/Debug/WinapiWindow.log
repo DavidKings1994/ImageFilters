@@ -1,0 +1,91 @@
+﻿Build started 26/02/2015 09:50:38 a.m..
+     1>Project "C:\Users\kuroitenshi\Google Drive\WinapiWindow\WinapiWindow\WinapiWindow.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /FR"Debug\\" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(74): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(77): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(115): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(118): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(135): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(143): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(151): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(159): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(194): warning C4244: 'argument' : conversion from 'float' to 'INT', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(195): warning C4244: 'argument' : conversion from 'float' to 'INT', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(196): warning C4244: 'argument' : conversion from 'float' to 'INT', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(204): warning C4244: 'argument' : conversion from 'float' to 'INT', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(205): warning C4244: 'argument' : conversion from 'float' to 'INT', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(206): warning C4244: 'argument' : conversion from 'float' to 'INT', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(222): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(234): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(246): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(254): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(262): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(270): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(278): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(353): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(355): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(360): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(362): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(363): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(364): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(443): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(444): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(446): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(518): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(521): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(546): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(549): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(551): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(569): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(572): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(592): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(595): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(600): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(601): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(602): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(617): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(620): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(646): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(650): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(679): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(682): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(684): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(702): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(705): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(707): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(725): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(728): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(763): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(775): warning C4244: '=' : conversion from 'float' to 'BYTE', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(789): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(799): warning C4244: '=' : conversion from 'float' to 'BYTE', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(833): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(837): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(918): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(919): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(920): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(1110): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(1115): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(1117): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(1118): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(1119): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\filtros.h(1165): warning C4244: 'argument' : conversion from 'float' to 'BYTE', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\main.cpp(36): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\main.cpp(38): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\main.cpp(132): warning C4244: '=' : conversion from 'float' to 'BYTE', possible loss of data
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\main.cpp(204): warning C4101: 'hdcMem' : unreferenced local variable
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\main.cpp(205): warning C4101: 'ps' : unreferenced local variable
+     1>c:\users\kuroitenshi\google drive\winapiwindow\winapiwindow\main.cpp(203): warning C4101: 'hdc' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\kuroitenshi\Google Drive\WinapiWindow\Debug\WinapiWindow.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib gdiplus.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\kuroitenshi\Google Drive\WinapiWindow\Debug\WinapiWindow.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\kuroitenshi\Google Drive\WinapiWindow\Debug\WinapiWindow.lib" /MACHINE:X86 Debug\WinapiWindow.res
+         Debug\main.obj
+         WinapiWindow.vcxproj -> C:\Users\kuroitenshi\Google Drive\WinapiWindow\Debug\WinapiWindow.exe
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\bscmake.exe /nologo /o"C:\Users\kuroitenshi\Google Drive\WinapiWindow\Debug\WinapiWindow.bsc" /n Debug\main.sbr
+     1>Done Building Project "C:\Users\kuroitenshi\Google Drive\WinapiWindow\WinapiWindow\WinapiWindow.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:13.50
